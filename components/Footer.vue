@@ -17,7 +17,7 @@
           <div class="footer-title">Contactați-ne</div>
           <div class="contact-info">
             <Icon name="material-symbols:call-sharp" size="1.1rem" class="contact-icon" />
-            <a href="" class="footer-text mobile-number">[]</a>
+            <a href="tel:+40751208695" class="footer-text mobile-number">+40 751 208 695</a>
           </div>
           <div class="contact-info">
             <Icon name="material-symbols-light:mail-rounded" size="1.2rem" class="contact-icon" />
@@ -32,7 +32,7 @@
 
         <div class="footer-section">
           <div style="height: auto;">
-            <img src="/assets/images/stpnation.jpg" alt="StartUp Nation">
+            <img src="/assets/images/stpnation-cluj.jpg" alt="StartUp Nation">
           </div>
         </div>
       </div>

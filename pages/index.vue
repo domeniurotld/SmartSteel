@@ -25,7 +25,7 @@
                     Suntem aici să transformăm metalul brut în structuri durabile și funcționale, combinând expertiza noastră tehnică cu o abordare orientată către client. La Smart Steel Technologies, fiecare proiect reprezintă o oportunitate de a demonstra calitatea, profesionalismul și pasiunea noastră pentru excelență.
                 </p>
                 <div class="contact-button">
-                    <a href="">
+                    <a href="tel:+40751208695">
                         <button class="top-section-button">Contactați-ne</button>
                     </a>
                 </div>
@@ -155,7 +155,7 @@
                 </p>
                 <p class="simple-text" style="margin-left: 1rem;">
                     • Adresă: <b>Loc. Fărcașa, str. Independenței, nr. 26</b>
-                    <br>• Telefon: <b>[]</b>
+                    <br>• Telefon: <a class="simple-text" href="tel:+40751208695" style="text-decoration: none;"><b>+40 751 208 695</b></a>
                     <br>• Email: <b>office@smartsteel.ro</b>
                     <br>• Website: <b>smartsteel.ro</b>
                 </p>
